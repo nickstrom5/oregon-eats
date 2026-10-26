@@ -1,0 +1,336 @@
+{
+ "generated": "2026-10-26",
+ "domain": "https://nickstrom5.github.io/oregon-eats",
+ "restaurants": 12697,
+ "places_incl_hidden": 13375,
+ "towns": 317,
+ "counties": 36,
+ "on_an_official_list": 6238,
+ "serves_alcohol": 6179,
+ "hand_checked_on_a_guide": 79,
+ "guide_cart": 35,
+ "guide_brewpub": 266,
+ "guide_seafood": 15,
+ "guide_donut": 19,
+ "guide_wine": 5,
+ "guide_taqueria": 5,
+ "guide_marion": 2,
+ "guide_pages": [
+  "cart",
+  "brewpub",
+  "seafood",
+  "donut",
+  "wine",
+  "taqueria"
+ ],
+ "oldest": 1,
+ "honors": 15,
+ "james_beard": 15,
+ "americas_classics": 1,
+ "liquor_updated": "2026-10-24",
+ "licenses_updated": "2026-10-24",
+ "olcc_active_onprem": 8772,
+ "olcc_active_full": 5173,
+ "city_pages": {
+  "Portland": {
+   "restaurants": 3341,
+   "listed": 107,
+   "cart": 20,
+   "brewpub": 73,
+   "seafood": 0,
+   "donut": 4,
+   "wine": 0,
+   "taqueria": 3,
+   "hon": 10,
+   "oldest": 0
+  },
+  "Bend": {
+   "restaurants": 444,
+   "listed": 33,
+   "cart": 6,
+   "brewpub": 26,
+   "seafood": 0,
+   "donut": 1,
+   "wine": 0,
+   "taqueria": 0,
+   "hon": 0,
+   "oldest": 0
+  },
+  "Eugene": {
+   "restaurants": 607,
+   "listed": 26,
+   "cart": 6,
+   "brewpub": 18,
+   "seafood": 0,
+   "donut": 1,
+   "wine": 0,
+   "taqueria": 0,
+   "hon": 1,
+   "oldest": 0
+  },
+  "Salem": {
+   "restaurants": 622,
+   "listed": 10,
+   "cart": 0,
+   "brewpub": 7,
+   "seafood": 0,
+   "donut": 3,
+   "wine": 0,
+   "taqueria": 0,
+   "hon": 0,
+   "oldest": 0
+  },
+  "Newport": {
+   "restaurants": 92,
+   "listed": 6,
+   "cart": 0,
+   "brewpub": 1,
+   "seafood": 5,
+   "donut": 0,
+   "wine": 0,
+   "taqueria": 0,
+   "hon": 0,
+   "oldest": 0
+  },
+  "McMinnville": {
+   "restaurants": 135,
+   "listed": 5,
+   "cart": 0,
+   "brewpub": 4,
+   "seafood": 0,
+   "donut": 0,
+   "wine": 0,
+   "taqueria": 0,
+   "hon": 1,
+   "oldest": 0
+  },
+  "Newberg": {
+   "restaurants": 91,
+   "listed": 7,
+   "cart": 0,
+   "brewpub": 4,
+   "seafood": 0,
+   "donut": 0,
+   "wine": 2,
+   "taqueria": 0,
+   "hon": 1,
+   "oldest": 0
+  },
+  "Springfield": {
+   "restaurants": 187,
+   "listed": 6,
+   "cart": 3,
+   "brewpub": 3,
+   "seafood": 0,
+   "donut": 0,
+   "wine": 0,
+   "taqueria": 0,
+   "hon": 0,
+   "oldest": 0
+  },
+  "Medford": {
+   "restaurants": 338,
+   "listed": 6,
+   "cart": 0,
+   "brewpub": 5,
+   "seafood": 0,
+   "donut": 1,
+   "wine": 0,
+   "taqueria": 0,
+   "hon": 0,
+   "oldest": 0
+  },
+  "Hood River": {
+   "restaurants": 110,
+   "listed": 10,
+   "cart": 0,
+   "brewpub": 9,
+   "seafood": 0,
+   "donut": 0,
+   "wine": 0,
+   "taqueria": 1,
+   "hon": 0,
+   "oldest": 0
+  },
+  "Hillsboro": {
+   "restaurants": 336,
+   "listed": 5,
+   "cart": 0,
+   "brewpub": 5,
+   "seafood": 0,
+   "donut": 0,
+   "wine": 0,
+   "taqueria": 0,
+   "hon": 0,
+   "oldest": 0
+  }
+ },
+ "cities_without_a_page": {
+  "Astoria": 3,
+  "Ashland": 2,
+  "Corvallis": 3,
+  "Beaverton": 3,
+  "Lincoln City": 3,
+  "Seaside": 2,
+  "Woodburn": 2
+ },
+ "noindex_pages": [],
+ "web_app_data_bytes": {
+  "data/core.json": {
+   "raw": 1020638,
+   "gzip": 210623
+  },
+  "data/detail-baker-county.json": {
+   "raw": 5729,
+   "gzip": 1209
+  },
+  "data/detail-benton-county.json": {
+   "raw": 24888,
+   "gzip": 4754
+  },
+  "data/detail-clackamas-county.json": {
+   "raw": 101498,
+   "gzip": 17268
+  },
+  "data/detail-clatsop-county.json": {
+   "raw": 30901,
+   "gzip": 5338
+  },
+  "data/detail-columbia-county.json": {
+   "raw": 10790,
+   "gzip": 2027
+  },
+  "data/detail-coos-county.json": {
+   "raw": 17435,
+   "gzip": 3151
+  },
+  "data/detail-crook-county.json": {
+   "raw": 5016,
+   "gzip": 1210
+  },
+  "data/detail-curry-county.json": {
+   "raw": 8749,
+   "gzip": 1693
+  },
+  "data/detail-deschutes-county.json": {
+   "raw": 75868,
+   "gzip": 12788
+  },
+  "data/detail-douglas-county.json": {
+   "raw": 26055,
+   "gzip": 4796
+  },
+  "data/detail-gilliam-county.json": {
+   "raw": 404,
+   "gzip": 233
+  },
+  "data/detail-grant-county.json": {
+   "raw": 1963,
+   "gzip": 556
+  },
+  "data/detail-harney-county.json": {
+   "raw": 1951,
+   "gzip": 611
+  },
+  "data/detail-hood-river-county.json": {
+   "raw": 14156,
+   "gzip": 2561
+  },
+  "data/detail-jackson-county.json": {
+   "raw": 70622,
+   "gzip": 11790
+  },
+  "data/detail-jefferson-county.json": {
+   "raw": 3849,
+   "gzip": 1041
+  },
+  "data/detail-josephine-county.json": {
+   "raw": 21744,
+   "gzip": 3886
+  },
+  "data/detail-klamath-county.json": {
+   "raw": 16633,
+   "gzip": 3103
+  },
+  "data/detail-lake-county.json": {
+   "raw": 1384,
+   "gzip": 452
+  },
+  "data/detail-lane-county.json": {
+   "raw": 98682,
+   "gzip": 16740
+  },
+  "data/detail-lincoln-county.json": {
+   "raw": 25556,
+   "gzip": 4663
+  },
+  "data/detail-linn-county.json": {
+   "raw": 23408,
+   "gzip": 4421
+  },
+  "data/detail-malheur-county.json": {
+   "raw": 8002,
+   "gzip": 1586
+  },
+  "data/detail-marion-county.json": {
+   "raw": 86828,
+   "gzip": 15006
+  },
+  "data/detail-morrow-county.json": {
+   "raw": 1887,
+   "gzip": 661
+  },
+  "data/detail-multnomah-county.json": {
+   "raw": 346636,
+   "gzip": 57814
+  },
+  "data/detail-polk-county.json": {
+   "raw": 16471,
+   "gzip": 3247
+  },
+  "data/detail-sherman-county.json": {
+   "raw": 834,
+   "gzip": 347
+  },
+  "data/detail-tillamook-county.json": {
+   "raw": 13203,
+   "gzip": 2589
+  },
+  "data/detail-umatilla-county.json": {
+   "raw": 18289,
+   "gzip": 3422
+  },
+  "data/detail-union-county.json": {
+   "raw": 6346,
+   "gzip": 1487
+  },
+  "data/detail-wallowa-county.json": {
+   "raw": 3481,
+   "gzip": 778
+  },
+  "data/detail-wasco-county.json": {
+   "raw": 8413,
+   "gzip": 1747
+  },
+  "data/detail-washington-county.json": {
+   "raw": 142978,
+   "gzip": 24681
+  },
+  "data/detail-wheeler-county.json": {
+   "raw": 413,
+   "gzip": 256
+  },
+  "data/detail-yamhill-county.json": {
+   "raw": 31617,
+   "gzip": 5757
+  },
+  "data/ids.json": {
+   "raw": 165089,
+   "gzip": 95867
+  },
+  "data/or_shapes.json": {
+   "raw": 62609,
+   "gzip": 13535
+  }
+ }
+}

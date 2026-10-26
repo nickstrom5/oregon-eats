@@ -1,0 +1,57 @@
+{
+ "schema": 1,
+ "version": "2026-10-26.1",
+ "records_through": "2026-10-26",
+ "published": "2026-10-26T19:19:57Z",
+ "min_app_build": 1,
+ "files": {
+  "detail-central-oregon": {
+   "path": "detail-central-oregon-7cc920dee571.json",
+   "sha256": "7cc920dee5719c3d2063ebe784afe1c6d8897ee8d8f0302b1156c694bd7da807",
+   "bytes": 94898,
+   "rows": 827
+  },
+  "detail-gorge-eastern-oregon": {
+   "path": "detail-gorge-eastern-oregon-59248556ce02.json",
+   "sha256": "59248556ce02864e38bb8e2b51cad273d486a7d87b6d61d1867200c759e38929",
+   "bytes": 80668,
+   "rows": 768
+  },
+  "detail-oregon-coast": {
+   "path": "detail-oregon-coast-4991e0dca272.json",
+   "sha256": "4991e0dca272cd591bae55481dfe718b3104e81592d71569fddc6b533f04e0fa",
+   "bytes": 107837,
+   "rows": 1008
+  },
+  "detail-portland-metro": {
+   "path": "detail-portland-metro-7bde097afaee.json",
+   "sha256": "7bde097afaeeca9564e3dcabe40c50bccd159682778096a6658219e45df01cbd",
+   "bytes": 684688,
+   "rows": 6179
+  },
+  "detail-southern-oregon": {
+   "path": "detail-southern-oregon-c4d9f4dbf8a7.json",
+   "sha256": "c4d9f4dbf8a7e5f0655813f05a374cf8c4d10a65b61ce621ff6bd71ea27f3f6f",
+   "bytes": 152238,
+   "rows": 1414
+  },
+  "detail-willamette-valley": {
+   "path": "detail-willamette-valley-669b96eb8bbc.json",
+   "sha256": "669b96eb8bbc8922b1ca193f8b11cc841f954e3569bb677e49c0cee11e45a8d9",
+   "bytes": 318769,
+   "rows": 3002
+  },
+  "places": {
+   "path": "places-f16eed56a095.json",
+   "sha256": "f16eed56a095dfb364aafea478b7932ea98a8eb81bd6517d47579ed9f507a365",
+   "bytes": 2197117,
+   "rows": 13375
+  }
+ },
+ "counts": {
+  "places": 13375,
+  "files": 7,
+  "bytes": 3636215,
+  "restaurants": 12697
+ }
+}
