@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-26",
+ "generated": "2026-11-03",
  "domain": "https://nickstrom5.github.io/oregon-eats",
- "restaurants": 12697,
+ "restaurants": 12668,
  "places_incl_hidden": 13375,
  "towns": 317,
  "counties": 36,
@@ -33,7 +33,7 @@
  "olcc_active_full": 5173,
  "city_pages": {
   "Portland": {
-   "restaurants": 3341,
+   "restaurants": 3335,
    "listed": 107,
    "cart": 20,
    "brewpub": 73,
@@ -57,7 +57,7 @@
    "oldest": 0
   },
   "Eugene": {
-   "restaurants": 607,
+   "restaurants": 606,
    "listed": 26,
    "cart": 6,
    "brewpub": 18,
@@ -69,7 +69,7 @@
    "oldest": 0
   },
   "Salem": {
-   "restaurants": 622,
+   "restaurants": 618,
    "listed": 10,
    "cart": 0,
    "brewpub": 7,
@@ -117,7 +117,7 @@
    "oldest": 0
   },
   "Springfield": {
-   "restaurants": 187,
+   "restaurants": 185,
    "listed": 6,
    "cart": 3,
    "brewpub": 3,
@@ -177,156 +177,156 @@
  "noindex_pages": [],
  "web_app_data_bytes": {
   "data/core.json": {
-   "raw": 1020638,
-   "gzip": 210623
+   "raw": 1018493,
+   "gzip": 210371
   },
   "data/detail-baker-county.json": {
    "raw": 5729,
-   "gzip": 1209
+   "gzip": 1208
   },
   "data/detail-benton-county.json": {
    "raw": 24888,
    "gzip": 4754
   },
   "data/detail-clackamas-county.json": {
-   "raw": 101498,
-   "gzip": 17268
+   "raw": 101224,
+   "gzip": 17220
   },
   "data/detail-clatsop-county.json": {
    "raw": 30901,
-   "gzip": 5338
+   "gzip": 5331
   },
   "data/detail-columbia-county.json": {
-   "raw": 10790,
-   "gzip": 2027
+   "raw": 10785,
+   "gzip": 2024
   },
   "data/detail-coos-county.json": {
    "raw": 17435,
-   "gzip": 3151
+   "gzip": 3150
   },
   "data/detail-crook-county.json": {
    "raw": 5016,
-   "gzip": 1210
+   "gzip": 1212
   },
   "data/detail-curry-county.json": {
    "raw": 8749,
-   "gzip": 1693
+   "gzip": 1702
   },
   "data/detail-deschutes-county.json": {
-   "raw": 75868,
-   "gzip": 12788
+   "raw": 75846,
+   "gzip": 12773
   },
   "data/detail-douglas-county.json": {
-   "raw": 26055,
-   "gzip": 4796
+   "raw": 25994,
+   "gzip": 4781
   },
   "data/detail-gilliam-county.json": {
    "raw": 404,
-   "gzip": 233
+   "gzip": 234
   },
   "data/detail-grant-county.json": {
    "raw": 1963,
-   "gzip": 556
+   "gzip": 561
   },
   "data/detail-harney-county.json": {
    "raw": 1951,
-   "gzip": 611
+   "gzip": 613
   },
   "data/detail-hood-river-county.json": {
    "raw": 14156,
-   "gzip": 2561
+   "gzip": 2556
   },
   "data/detail-jackson-county.json": {
    "raw": 70622,
-   "gzip": 11790
+   "gzip": 11817
   },
   "data/detail-jefferson-county.json": {
    "raw": 3849,
-   "gzip": 1041
+   "gzip": 1043
   },
   "data/detail-josephine-county.json": {
    "raw": 21744,
-   "gzip": 3886
+   "gzip": 3884
   },
   "data/detail-klamath-county.json": {
-   "raw": 16633,
-   "gzip": 3103
+   "raw": 16572,
+   "gzip": 3098
   },
   "data/detail-lake-county.json": {
    "raw": 1384,
-   "gzip": 452
+   "gzip": 456
   },
   "data/detail-lane-county.json": {
-   "raw": 98682,
-   "gzip": 16740
+   "raw": 98497,
+   "gzip": 16730
   },
   "data/detail-lincoln-county.json": {
    "raw": 25556,
-   "gzip": 4663
+   "gzip": 4667
   },
   "data/detail-linn-county.json": {
-   "raw": 23408,
-   "gzip": 4421
+   "raw": 23283,
+   "gzip": 4401
   },
   "data/detail-malheur-county.json": {
    "raw": 8002,
-   "gzip": 1586
+   "gzip": 1587
   },
   "data/detail-marion-county.json": {
-   "raw": 86828,
-   "gzip": 15006
+   "raw": 86453,
+   "gzip": 14925
   },
   "data/detail-morrow-county.json": {
    "raw": 1887,
-   "gzip": 661
+   "gzip": 658
   },
   "data/detail-multnomah-county.json": {
-   "raw": 346636,
-   "gzip": 57814
+   "raw": 346261,
+   "gzip": 57725
   },
   "data/detail-polk-county.json": {
    "raw": 16471,
-   "gzip": 3247
+   "gzip": 3249
   },
   "data/detail-sherman-county.json": {
    "raw": 834,
-   "gzip": 347
+   "gzip": 348
   },
   "data/detail-tillamook-county.json": {
    "raw": 13203,
-   "gzip": 2589
+   "gzip": 2587
   },
   "data/detail-umatilla-county.json": {
-   "raw": 18289,
-   "gzip": 3422
+   "raw": 18162,
+   "gzip": 3414
   },
   "data/detail-union-county.json": {
-   "raw": 6346,
-   "gzip": 1487
+   "raw": 6285,
+   "gzip": 1473
   },
   "data/detail-wallowa-county.json": {
    "raw": 3481,
-   "gzip": 778
+   "gzip": 774
   },
   "data/detail-wasco-county.json": {
-   "raw": 8413,
-   "gzip": 1747
+   "raw": 8286,
+   "gzip": 1717
   },
   "data/detail-washington-county.json": {
    "raw": 142978,
-   "gzip": 24681
+   "gzip": 24684
   },
   "data/detail-wheeler-county.json": {
    "raw": 413,
-   "gzip": 256
+   "gzip": 259
   },
   "data/detail-yamhill-county.json": {
    "raw": 31617,
-   "gzip": 5757
+   "gzip": 5765
   },
   "data/ids.json": {
-   "raw": 165089,
-   "gzip": 95867
+   "raw": 164712,
+   "gzip": 95646
   },
   "data/or_shapes.json": {
    "raw": 62609,
